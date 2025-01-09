@@ -1,0 +1,8 @@
+# Plotting:
+matplotlib==3.7.2 # pip show matplotlib
+
+# Numpy-based neural networks and data preprocessing:
+numpy==1.25.1 # pip show numpy
+
+# Jupyter notebook:
+jupyter # Run using: "$ jupyter notebook" or "$ ipython notebook" once ipython is installed.
